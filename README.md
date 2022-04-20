@@ -39,16 +39,12 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/GBDev13/worldtrip.git
+$ git clone git@github.com:antonioalexandre1984/Rocketseat_ignite2022_React_Chapter_04_Challenger01.git
 ```
 
 ```
 # Acesse a pasta da aplicação
 $ cd worldtrip
-
-# Crie um arquivo .env.local e coloque as variaveis
-# de ambiente baseado no arquivo .env.example que
-# se encontra na pasta worldtrip
 
 # Instale as dependências
 $ yarn
